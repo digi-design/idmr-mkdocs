@@ -2,4 +2,4 @@ site_name: IDMR Social Media Guidelines
 nav:
     - Home: index.md
     - About: about.md
-theme: readthedocs
+theme: material
