@@ -1,5 +1,23 @@
 site_name: IDMR Social Media Guidelines
 nav:
     - Home: index.md
-    - About: about.md
+    - Login: login.md
 theme: material
+security:
+  oauth2:
+    client:
+      registration:
+        facebook:
+          clientId: 261455392200752
+          clientSecret: 2fac6744e209a4e45b2eb4c89a392e99
+          accessTokenUri: https://graph.facebook.com/oauth/access_token
+          userAuthorizationUri: https://www.facebook.com/dialog/oauth
+          tokenName: oauth_token
+          authenticationScheme: query
+          clientAuthenticationScheme: form
+          scope:
+            - email
+            - public_profile
+            - location
+    resource:
+      userInfoUri: https://graph.facebook.com/me
