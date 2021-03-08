@@ -14,4 +14,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
-        login.md       # Login with Facebook credentials.
+        login.md  # Login with Facebook credentials.
