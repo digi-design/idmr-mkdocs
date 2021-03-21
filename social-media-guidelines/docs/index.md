@@ -1,4 +1,4 @@
-# Welcome to IDMR Social Media Guidelines
+# Welcome to Social Media Guidelines
 
 <!-- 
     For full documentation visit [mkdocs.org](https://www.mkdocs.org). 
