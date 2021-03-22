@@ -1,4 +1,4 @@
-# Welcome to *ThePatternOfEverything&trade;*'s Social Media Guidelines
+# Welcome to *ThePatternOfEverything&trade;* Social Media Guidelines
 
 The intended audience are all those that seek to teach, preach, and distribute branch school lectures online. The Founder, Dr. Henry Clifford Kinley, was very specific on the mission of the school and the manner in which the gospel would be distributed to the general public. 
 
@@ -8,9 +8,9 @@ The Internet, and specifically Social Media (i.e. YouTube), are revolutionary, m
 
 Given the recent tensions in religious and secular communities, it would be worthwhile to pause and reflect deeply on the following recommendations and stimulate introspection.
 
-## Administrative Standards
+## I. Administrative Standards
 
-### Precautions
+### A. Precautions
 
    1. What necessary precautions need to be considered when providing credible research material online while teaching or preaching the Gospel of Yahshua the Messiah?
 
@@ -18,29 +18,40 @@ Given the recent tensions in religious and secular communities, it would be wort
 
    3. What is the impact and known/unknown public perception of the current publication of lectures and other materials online? 
 
-### Code of Conduct 
+### B. Code of Conduct 
    
-### Professionalism
+### C. Professionalism
 
-## Privacy
+## II. Privacy
 
+## III. Retention
 
-## Retention
-
-### Distribution
+### A. Distribution
 
    1. Is the distribution of each and every lecture or series of lectures on the "open internet" absolutely critical to preaching the Gospel of Yahshua the Messiah throughout the world?
 
-## Archiving
+## IV. Archiving
 
-## Removal of Content
+## V. Removal of Content
 
-## Site Settings
+## VI. Site Settings
 
-## Equipment Configurations
+## VII. Equipment Configurations
+
+## VII. Bibliography
+
+<ol>
+    <li>
+        <p>E.Balagurusamy, <cite>Programming with JAVA: A Primer</cite>, 3rd edition, (2007)</p>
+    </li>
+    <li>
+        <p>Reto Meier, <cite>Professional Android 4 Application Development</cite>, 3rd edition, (2012)</p>
+    </li>
+</ol>
+
+## IX. Quick References
 
 > [Project Documentation with Markdown](https://www.mkdocs.org)
-
 > [Markdown Syntax Quick Reference](https://www.markdownguide.org/cheat-sheet)
 
 
