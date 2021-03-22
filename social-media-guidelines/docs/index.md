@@ -14,15 +14,15 @@ Given the recent tensions in religious and secular communities, it would be wort
 
    1. What necessary precautions need to be considered when providing credible research material online while teaching or preaching the Gospel of Yahshua the Messiah?
 
-   <iframe width="460" height="215" src="https://www.youtube.com/embed/tdcmjPR7Ntw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="460" height="215" display="block" src="https://www.youtube.com/embed/tdcmjPR7Ntw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
    2. What valid concerns and criticisms have members made and what has been done to address those concerns?
-
+    <p halign="center"> 
    **( *Add Survey and Link to Results Here* )**
-
+   </p>
    3. What is the impact and known/unknown public perception of the current publication of lectures and other materials online? 
 
-   <iframe width="460" height="215" src="https://www.youtube.com/embed/Ud2sgpVs_SE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="460" height="215" display="block" src="https://www.youtube.com/embed/Ud2sgpVs_SE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### B. Code of Conduct 
    
