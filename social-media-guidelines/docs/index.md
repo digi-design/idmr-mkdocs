@@ -1,17 +1,19 @@
-# Welcome to MkLorum
+# Welcome to Social Media Guidelines
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<!-- 
+    For full documentation visit [mkdocs.org](https://www.mkdocs.org). 
 
-## Commands
+    ## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+    * `mkdocs new [dir-name]` - Create a new project.
+    * `mkdocs serve` - Start the live-reloading docs server.
+    * `mkdocs build` - Build the documentation site.
+    * `mkdocs -h` - Print help message and exit.
 
-## Project layout
+    ## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        login.md  # Login with Facebook credentials.
+        mkdocs.yml    # The configuration file.
+        docs/
+            index.md  # The documentation homepage.
+            login.md  # Login with Facebook credentials.
+-->
