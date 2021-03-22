@@ -1,4 +1,6 @@
-# Welcome to *ThePatternOfEverything&trade;* Social Media Guidelines
+# Welcome to <!--*ThePatternOfEverything&trade;*--> Social Media Guidelines
+
+<p style="text-align:center;color:maroon;background-color:yellow"><b><i>Confidential & Proprietary: Not for External Distribution</b></i></p>
 
 The intended audience are all those that seek to teach, preach, and distribute branch school lectures online. The Founder, Dr. Henry Clifford Kinley, was very specific on the mission of the school and the manner in which the gospel would be distributed to the general public. 
 
@@ -9,32 +11,51 @@ The Internet, and specifically Social Media (i.e. YouTube), are revolutionary, m
 Given the recent tensions in religious and secular communities, it would be worthwhile to pause and reflect deeply on the following recommendations and stimulate introspection.
 
 ## I. Administrative Standards
+<details>
+<summary>A. Precautions</summary>
 
-### A. Precautions
+<ol start="1">
+  <li><p><b><i>What necessary precautions need to be considered when providing credible research material online while teaching or preaching the Gospel of Yahshua the Messiah?</i></b></p>
+  
+   <p style="text-align:center"><iframe width="460" height="215" src="https://www.youtube.com/embed/tdcmjPR7Ntw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+  </li>
 
-   1. What necessary precautions need to be considered when providing credible research material online while teaching or preaching the Gospel of Yahshua the Messiah?
+  <li><p><b><i>What valid concerns and criticisms have members made and what has been done to address those concerns?</i></b></p>
 
-   <iframe width="460" height="215" display="block" src="https://www.youtube.com/embed/tdcmjPR7Ntw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <p>There are many serious considerations that should be weighed when publishing content online. Failing to fully enumerate and provide guidance and clarity will foster mistrust and suspicion of malintent.</p>  
+  
+  <p>Many unique challenges and considerations may not be readily apparent in the traditional classroom model. The following survey will help to shed some light on such challenges in regards to online classroom instruction.</p>
+  
+   <p style="text-align:center;color:maroon;background-color:yellow"><b><i>(Add Survey and Link to Results Here)</i></b></p>
+  </li>
 
-   2. What valid concerns and criticisms have members made and what has been done to address those concerns?
-    <p halign="center"> 
-   **( *Add Survey and Link to Results Here* )**
-   </p>
-   3. What is the impact and known/unknown public perception of the current publication of lectures and other materials online? 
+  <li><p><b><i>What is the impact and known/unknown public perception of the current publication of lectures and other materials online?</i></b></p>
+  
+  <p style="text-align:center"><iframe width="460" height="215" src="https://www.youtube.com/embed/Ud2sgpVs_SE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+  </li>
+</ol>
+</details>
 
-   <iframe width="460" height="215" display="block" src="https://www.youtube.com/embed/Ud2sgpVs_SE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<details>
+<summary>B. Code of Conduct</summary>
 
-### B. Code of Conduct 
+</details>
    
-### C. Professionalism
+<details>
+<summary>C. Professionalism</summary>
+
+</details>
 
 ## II. Privacy
 
 ## III. Retention
+<details>
+<summary> A. Distribution</summary>
 
-### A. Distribution
-
-   1. Is the distribution of each and every lecture or series of lectures on the "open internet" absolutely critical to preaching the Gospel of Yahshua the Messiah throughout the world?
+<ol start="1">
+  <li>Is the distribution of each and every lecture or series of lectures on the "open internet" absolutely critical to preaching the Gospel of Yahshua the Messiah throughout the world?</li>
+</ol>
+</details>
 
 ## IV. Archiving
 
